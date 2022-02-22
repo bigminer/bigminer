@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at Tyler Technologies
 - 🌱 I’m currently learning AWS, github automation
-- 
 <!--
 **bigminer/bigminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
